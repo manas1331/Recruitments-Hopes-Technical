@@ -2,19 +2,19 @@
 Welcome to the Hopes Media Club recruitment website! This project is designed to provide a sophisticated platform for media enthusiasts to engage, collaborate, and explore various aspects of media. Built with HTML, CSS, Bootstrap for responsiveness, JavaScript, and React, our website offers a seamless user experience across different devices.
 
 ## Features
-### Home
+### <ins>Home
 Engaging landing page showcasing the essence of the Hopes Media Club.
-Latest updates, news, and events displayed dynamically.
-### Team
+Displaying an interative website.
+### <ins>Team
 Meet our talented team members.
 Explore individual profiles highlighting their skills and contributions.
-### Helpline
+### <ins>Helpline
 Access resources and support related to media projects.
-Connect with mentors and industry professionals for guidance.
-### Login
+Connect with memebers of club(Even link can be added).
+### <ins>Login
 Secure login functionality for registered users.
-Personalized experience with saved preferences and settings.
-### About
+Personalized experience and hassle free use.
+### <ins>About
 Learn about the mission, vision, and values of the Hopes Media Club.
 Discover our journey and future initiatives.
 
