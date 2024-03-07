@@ -6,7 +6,7 @@
                     x.style.left="-450px";
                     y.style.left="50px";
                     z.style.left="110px";
-                    window.location.href = "/home1.html";
+                    window.location.href = "/Recruitments-Hopes-Technical/";
                 }
 
                 function login(){
