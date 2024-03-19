@@ -31,4 +31,4 @@ React: Front-end library for building dynamic user interfaces.
 
 ## Website
 Visit the Hopes Media Club Website to explore our platform!
-<url>https://1deringmanas1331.github.io/Recruitments-Hopes-Technical/</url>
+<url>https://manas1331.github.io/Recruitments-Hopes-Technical/</url>
